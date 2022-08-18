@@ -1,4 +1,4 @@
-package basic;
+package Basic;
 
 
 
@@ -18,6 +18,9 @@ public class Math {
         System.out.println("product is:"+a*b);
     }
 
-
+    public static void Substraction(int a,int b)
+    {
+        System.out.println("substraction is:"+(a-b));
+    }
 
 }
